@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "calc.～Piano Live Version～",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T16:49:13.198512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "calc. - Piano Live Version",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_calc._-_Piano_Live_Version_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Calc. ～Piano Live Version～",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/02_Calc._~Piano_Live_Version~_nano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "calc.~Piano Live Version~",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/03_calc.~Piano_Live_Version~_ナノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Calc.～Piano Live Version～",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_Calc.~Piano_Live_Version~_ナノ.txt"
+    }
+  ]
+}
